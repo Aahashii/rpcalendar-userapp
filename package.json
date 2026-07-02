@@ -1,0 +1,8 @@
+{
+  "name": "rpcalendar-userapp",
+  "version": "1.0.0",
+  "description": "Discord User-Installable App (HTTP Interactions endpoint) for the RP calendar /rpdate command.",
+  "dependencies": {
+    "tweetnacl": "^1.0.3"
+  }
+}
